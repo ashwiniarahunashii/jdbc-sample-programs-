@@ -9,7 +9,7 @@ This repository contains basic Java JDBC programs that I practiced during my tra
 - Java
 - JDBC (Java Database Connectivity)
 - MySQL Database
-- Eclipse / IntelliJ / NetBeans (Any Java IDE)
+- Eclipse 
 
 ---
 
